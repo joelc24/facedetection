@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "deteccionfaceapi": {
+      "hosting": {
+        "deteccionFacial": [
+          "deteccionfaceapi"
+        ]
+      }
+    },
+    "deteccionfaceapi-220f6": {
+      "hosting": {
+        "deteccionFacial": [
+          "deteccionfaceapi-220f6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "deteccionfaceapi-220f6"
+  }
+}
